@@ -21,3 +21,12 @@ git commit -m "Add hello_world.java program"
 git pull origin main --rebase
 🔹 8. Push your code to GitHub
 git push origin main (check in your github whether the file is present or not)
+🔹 9. connects your local Git repository to a remote GitHub repository
+git remote add origin  https://github.com/your-username/repo-name.git
+🔹 10. To identify the branch 
+git branch
+🔹 11. If it is in master you can commit like
+git push origin master
+🔹 12. Change the branch name master -> main
+git branch -M main then commit git push origin main
+
