@@ -18,5 +18,6 @@ public class methods {
         methods nw = new methods();
         methods.int_val(sc);
         nw.String_val(sc);
+        
     }
 }
