@@ -17,7 +17,6 @@ public class methods {
         Scanner sc = new Scanner(System.in);
         methods nw = new methods();
         methods.int_val(sc);
-        nw.String_val(sc);
-        
+        nw.String_val(sc);       
     }
 }
