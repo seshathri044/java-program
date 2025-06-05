@@ -4,7 +4,7 @@ A collection of beginner-friendly Java programs to strengthen my core understand
 ✅ Topics Covered
 
 - ✅ Hello World
-- ✅ Input/output using (Scanner)
+- ✅ Input/output using Scanner
 - ✅ Variables, Data Types, Type Casting
 - ✅ Control Statements (if, else, switch)
 - ✅ Loops (for, while)
@@ -21,6 +21,7 @@ A collection of beginner-friendly Java programs to strengthen my core understand
 - ✔️ Basic pattern printing (pyramids, diamonds, stars)
 
 📁 Folder Structure
+
 java-basics/
 ├── HelloWorld.java
 ├── ScannerInput.java
