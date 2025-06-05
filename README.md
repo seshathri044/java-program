@@ -20,20 +20,6 @@ A collection of beginner-friendly Java programs to strengthen my core understand
 - ✔️ Check if a string is a palindrome
 - ✔️ Basic pattern printing (pyramids, diamonds, stars)
 
-📁 Folder Structure
-
-java-basics/
-├── HelloWorld.java
-├── ScannerInput.java
-├── TypeCasting.java
-├── IfElseDemo.java
-├── LoopExamples.java
-├── MethodExamples.java
-├── ArrayMaxMin.java
-├── StringVowels.java
-├── PalindromeCheck.java
-└── PatternPrinting.java
-
 📌 Goal
 To demonstrate my understanding of core Java programming concepts through small, structured programs — useful for interview prep, academics, and personal mastery.
 
