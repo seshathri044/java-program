@@ -1,4 +1,4 @@
-public class square_patern {
+public class square_pattern {
     public void pat(int q){
         for(int i=0;i<q;i++){
             for(int j=0;j<q;j++){
@@ -16,7 +16,7 @@ public class square_patern {
         }
     }
     public static void main(String [] args){
-        square_patern nw = new square_patern();
+        square_pattern nw = new square_pattern();
         nw.pat(5);
     }
 
