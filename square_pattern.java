@@ -19,5 +19,4 @@ public class square_pattern {
         square_pattern nw = new square_pattern();
         nw.pat(5);
     }
-
 }
