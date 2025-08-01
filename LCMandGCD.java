@@ -21,3 +21,5 @@ public class LCMandGCD {
         System.out.println("The value of GCD: " + gcd);
     }
 }
+
+
