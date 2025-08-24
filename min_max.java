@@ -13,7 +13,6 @@ public class min_max {
                 max = arr[i];
             }
         }
-
         System.out.println("Max: " + max);
         System.out.println("Min: " + min);
     }
