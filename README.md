@@ -1,4 +1,4 @@
-# Java Basics 🚀
+# Java Program 🚀
 A collection of beginner-friendly Java programs to strengthen my core understanding of the language. This repository includes Java syntax, flow control, arrays, strings, and basic problems commonly asked in interviews or programming challenges.
 
 ✅ Topics Covered
