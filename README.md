@@ -1,29 +1,39 @@
-# Java Program 🚀
-A collection of beginner-friendly Java programs to strengthen my core understanding of the language. This repository includes Java syntax, flow control, arrays, strings, and basic problems commonly asked in interviews or programming challenges.
+# 🚀 Java Programs — Beginner to Intermediate
 
-✅ Topics Covered
+A collection of beginner-friendly Java programs designed to strengthen my core understanding of Java programming.
+This repository covers essential Java concepts — from syntax and control flow to arrays, strings, and common interview questions.
 
-- ✅ Hello World
-- ✅ Input/output using Scanner
-- ✅ Variables, Data Types, Type Casting
-- ✅ Control Statements (if, else, switch)
-- ✅ Loops (for, while)
-- ✅ Methods (static, return types, parameters)
-- ✅ Arrays (1D, 2D, loop through arrays)
-- ✅ String operations ('concatenation', length, charAt, equals, etc.)
 
-🔹 Problem Examples
-- ✔️ Print even/odd numbers in a range
-- ✔️ Find max/min in an array
-- ✔️ Count vowels in a string
-- ✔️ Reverse a string or number
-- ✔️ Check if a string is a palindrome
-- ✔️ Basic pattern printing (pyramids, diamonds, stars)
+### 💡 Problem Examples
 
-📌 Goal
-To demonstrate my understanding of core Java programming concepts through small, structured programs — useful for interview prep, academics, and personal mastery.
+- ✅ Print even/odd numbers in a range
+- ✅ Find maximum and minimum elements in an array
+- ✅ Count vowels in a string
+- ✅ Reverse a string or number
+- ✅ Check if a string is a palindrome
+- ✅ Pattern printing (pyramids, diamonds, stars)
 
-🙋‍♂️ Author
-Seshathri 
-🔗 [GitHub Profile](https://github.com/seshathri044)
-> ⭐ Feel free to fork, star, or contribute improvements!
+### 🎯 Goal
+To demonstrate my understanding of core Java programming concepts through small, structured programs.
+This repository helps in:
+
+- Strengthening fundamentals
+- Preparing for interviews
+- Improving problem-solving skills
+
+### 📂 Repository Structure
+```bash
+Java-Programs/
+├── basic/
+├── arrays/
+├── loop_and_condition/
+├── numbers/
+├── Swing/
+└── README.md
+```
+
+Each folder contains focused programs categorized by topic for better learning and navigation.
+
+### 👨‍💻 Author
+Seshathri
+⭐ Feel free to fork, star, or contribute improvements!
